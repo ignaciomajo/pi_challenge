@@ -189,6 +189,7 @@ Quiero agradecer a Pi Consulting por proporcionar el entorno para el desarrollo 
 ![imagen-readme](https://github.com/user-attachments/assets/f3fe7864-f839-4d6f-8a05-4bc2ec5ca7c8)
 
 
-* **Ignacio Majo**
-  - Data Scientist
+* **| Ignacio Majo | Data Scientist |**
+ 
+
 📫 Contacto: ignacio.majoo@gmail.com | 💻[LinkedIn](https://www.linkedin.com/in/ignacio-majo/)
