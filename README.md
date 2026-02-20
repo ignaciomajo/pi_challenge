@@ -163,6 +163,10 @@ Cada ejecución de la función genera un archivo de salida en la carpeta /result
 
 El uso del timestamp en el nombre del archivo garantiza un historial organizado de las proyecciones realizadas, facilitando auditorías y comparativas temporales de rendimiento.
 
+### Presentación de negocios
+
+En adición, el proyecto cuenta con una presentación de negocios donde se explica el proceso de investigación desarrollado y los hallazgos y conclusiones obtenidos a lo largo de todo el proyecto.
+El mismo se encuentra en el directorio 📂 **/reports** del presente repositorio.
 
 ---
 ## 7. Tecnologías utilizadas 🛠️
