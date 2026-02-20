@@ -14,7 +14,7 @@
 6. Implementación y Uso de Predicciones
 7. Tecnologías utilizadas
 8. Agradecimientos
-9. Desarrolladores del proyecto
+9. Desarrollador del proyecto
 
 ---
 
