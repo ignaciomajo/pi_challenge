@@ -191,3 +191,4 @@ Quiero agradecer a Pi Consulting por proporcionar el entorno para el desarrollo 
 
 * **Ignacio Majo**
   - Data Scientist
+📫 Contacto: ignacio.majoo@gmail.com | 💻[LinkedIn](https://www.linkedin.com/in/ignacio-majo/)
