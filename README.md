@@ -19,7 +19,7 @@
 ---
 
 
-## 1. Descripción del proyecto 📚
+## 1. Descripción del Proyecto 📚
 
 ### **Contexto del Negocio** 
 
@@ -35,7 +35,7 @@ Se desarrolló un modelo basado en Random Forest Regressor, optimizado mediante 
 
 ---
 
-## 2. Acceso al proyecto 📂
+## 2. Acceso al Proyecto 📂
 
 Para obtener el proyecto tienes dos opciones:
 
@@ -59,7 +59,7 @@ Esto descargará un archivo comprimido `.zip`, que podrás alojar en el director
 El proyecto incluye una carpeta /modelos con los artefactos necesarios (.pkl) y una función apply_model diseñada para procesar nuevos datos de forma automatizada.
 
 ---
-## 3. Etapas del proyecto 📝
+## 3. Etapas del Proyecto 📝
 
 1. **Descripción del Notebook**
 2. **Configuraciones**
@@ -112,7 +112,7 @@ El proyecto incluye una carpeta /modelos con los artefactos necesarios (.pkl) y 
 
 
 ---
-## 5. Resultados y conclusiones
+## 5. Resultados y Conclusiones
 
 
 A través de un proceso de optimización iterativa, se seleccionó el modelo RandomForest 6 como la solución definitiva. Este modelo logra un equilibrio óptimo entre precisión estadística y eficiencia computacional.
@@ -169,7 +169,7 @@ En adición, el proyecto cuenta con una presentación de negocios donde se expli
 El mismo se encuentra en el directorio 📂 **/reports** del presente repositorio.
 
 ---
-## 7. Tecnologías utilizadas 🛠️
+## 7. Tecnologías Utilizadas 🛠️
 
 * `Python`
 * `Jupyter`
@@ -184,7 +184,7 @@ Quiero agradecer a Pi Consulting por proporcionar el entorno para el desarrollo 
 
 
 ---
-## 9. Desarrollador del proyecto 👷
+## 9. Desarrollador del Proyecto 👷
 
 ![imagen-readme](https://github.com/user-attachments/assets/f3fe7864-f839-4d6f-8a05-4bc2ec5ca7c8)
 
