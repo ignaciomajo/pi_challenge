@@ -48,6 +48,7 @@ Para obtener el proyecto tienes dos opciones:
 
    Esto te llevará a la siguiente pantalla, donde deberás seguir los siguientes pasos:
 
+<img width="1786" height="677" alt="image" src="https://github.com/user-attachments/assets/eb801d36-7237-48bd-b21b-2acb84074a96" />
 
    
 Esto descargará un archivo comprimido `.zip`, que podrás alojar en el directorio que desees.
